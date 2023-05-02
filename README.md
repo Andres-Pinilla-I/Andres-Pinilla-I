@@ -3,10 +3,10 @@
 - 🌱 I’m currently learning Setup mining computers for bitcoin and ethereum.
 - 💞️ I’m looking to collaborate on any software solution involving my interests.
 - 📫 How to reach me 
-email: andres.pinilla.i@gmail.com
-whatsApp:  +57 316 692 3276
-LinkedIn:  https://www.linkedin.com/in/andres-pinilla-7717a8a0/?locale=en_US
-Instagram:  Andres_Pinilla_I
+- email: andres.pinilla.i@gmail.com
+- whatsApp:  +57 316 692 3276
+- LinkedIn:  https://www.linkedin.com/in/andres-pinilla-7717a8a0/?locale=en_US
+- Instagram:  Andres_Pinilla_I
 
 <!---
 Andres-Pinilla-I/Andres-Pinilla-I is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
