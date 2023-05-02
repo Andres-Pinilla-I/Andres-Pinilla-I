@@ -5,6 +5,7 @@
 - 📫 How to reach me 
 email: andres.pinilla.i@gmail.com
 whatsApp:  +57 316 692 3276
+LinkedIn:  https://www.linkedin.com/in/andres-pinilla-7717a8a0/?locale=en_US
 Instagram:  Andres_Pinilla_I
 
 <!---
